@@ -1,0 +1,4 @@
+.idea/
+*.xml
+flaskblog/__pycache__/
+*.pyc
